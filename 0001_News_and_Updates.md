@@ -3,6 +3,10 @@
 
 The public repo is no longer updated but we have our successful private repo for that ;-)
 
+14. October 2021: Nun machen sie die Typen mit ihren illegalen Streams so richtig lächerlich. Da hat der Vollpfosten  @LaneSh4d0w doch tatsächlich einen Eintrag in der Blacklist gemacht. Aber Streams wie Disney-Channels, Sky Sportkanäle, deutsches privates TV (1 Eintrag) sind weiterhin in deren Schrottlisten enthalten. Naja, bald wird dieser unseriöse haufen eh sein zweites DMCA bekommen, denn bei denen ist so einiges NICHT legal!
+
+https://github.com/iptv-org/iptv/pull/4996
+
 12. July2021: Since there is no end to the hate campaign and the spreading of lies about our repo and also against me, there will soon be major changes here (also in the public repo). It's really just pathetic what some people post there and that will be the reason for changes. After that, I laugh last. WE have 5161 really legal and free streams. Anyone looking for Disney channels or other steams from PAY-TV will have to go to the provider that MH is now even advertising in its addon. I can only shake my head and laugh at the same time.  
 
 https://forums.whirlpool.net.au/thread/3m0107l6?p=2
